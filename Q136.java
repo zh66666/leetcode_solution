@@ -6,3 +6,6 @@ class Solution {
         return nums[0];
     }
 }
+/*
+   通过异或运算可将相同的两个数抵消
+*/
